@@ -31,15 +31,17 @@ const styles = StyleSheet.create({
     backgroundColor: '#ffffff',
     borderRadius:9,
     height: 120,
-    width:300,
+    width:350,
   },
   textLoader:{
     position:'absolute',
     bottom:60,
-    left:28
+    left:36
   },
   img:{
-    width:'100%',
-    marginBottom:30,
+    position:'absolute',
+    bottom:-40,
+    right:-22,
+    height:230
   }
 });
