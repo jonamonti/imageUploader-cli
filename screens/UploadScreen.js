@@ -38,7 +38,7 @@ const s = StyleSheet.create({
 		shadowRadius: 4,
 		shadowOpacity: 0.8,
 		shadowOffset: { height: 0, width: 0 },
-		elevation: 4,
+		elevation: 8,
 		borderRadius: 20,
 		backgroundColor: 'white',
 	},
